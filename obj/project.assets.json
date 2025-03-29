@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\SmartParking\\DesafioFundamentos.csproj",
+      "projectUniqueName": "C:\\Projetos\\Backend\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "C:\\Projetos\\SmartParking\\DesafioFundamentos.csproj",
+      "projectPath": "C:\\Projetos\\Backend\\DesafioFundamentos.csproj",
       "packagesPath": "C:\\Users\\pj_pa\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\SmartParking\\obj\\",
+      "outputPath": "C:\\Projetos\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
